@@ -1,0 +1,26 @@
+#visi-misi{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+#menu{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+#contact{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+header{
+    margin-top: 80px;
+}
+.navbar-scrolled {
+    background-color: #343a40 !important;
+    color: floralwhite;
+    transition: background-color 0.3s;
+}
+.navbar-scrolled .nav-link,
+.navbar-scrolled .navbar-brand {
+    color: #ffffff !important;
+}
